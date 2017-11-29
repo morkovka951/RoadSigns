@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "619019877758",
+    "firebase_url": "https://roadsigns-5a6f7.firebaseio.com",
+    "project_id": "roadsigns-5a6f7",
+    "storage_bucket": "roadsigns-5a6f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619019877758:android:ee27ef8cd50fd519",
+        "android_client_info": {
+          "package_name": "com.example.m_book.roadsigns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619019877758-tbl9563c15tg5tic7bcdffpickgj46hv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.m_book.roadsigns",
+            "certificate_hash": "d5aeaed67abb41a174c50199242a117a6ecbc872"
+          }
+        },
+        {
+          "client_id": "619019877758-n2bgfgv3jqf70ogtshs8k4pc4n2foku2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDR1IAcJ3SdxiYCREWEiUOqvQJJoju6YE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619019877758-n2bgfgv3jqf70ogtshs8k4pc4n2foku2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
